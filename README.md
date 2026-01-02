@@ -1,16 +1,14 @@
+# About me
+
 ## Hi there 👋
 
-<!--
-**tiplady-liam/tiplady-liam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Liam Tiplady. I am an application and game developer.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on .NET MAUI applications and Godot games
+- 🌱 I’m currently learning cybersecurity
+- 👯 I’m looking to collaborate on anything and everything
+- 🤔 I’m looking for help with my technical debt
+- 💬 Ask me about my daughter
+- 📫 How to reach me: liam.tiplady.co.za
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I like green tea
